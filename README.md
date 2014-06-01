@@ -5,10 +5,10 @@ A modification of Suzuismywaifu's homepage.
 
 ========
 
-Changelog:
+<b>Changelog:<b>
 
-v1.1
-Fixed incorrect display on higher resolutions
-Removed junk files
-Cleaner code
-Various bugfixes
+v1.1<br>
+Fixed incorrect display on higher resolutions<br>
+Removed junk files<br>
+Cleaner code<br>
+Various bugfixes<br>
